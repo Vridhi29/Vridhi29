@@ -7,8 +7,6 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 🎓 *2nd Year CS Student* at UPES Dehradun  
 💻 *Passionate* about Technology & Innovation  
 🎨 *Creative Soul* who loves to paint & draw  
